@@ -6,9 +6,15 @@ Visit ngrok's dashboard. https://dashboard.ngrok.com/
 Use the username `majhcc` and the password `majhcc123`
 
 us - United States (Ohio)
+
 eu - Europe (Frankfurt)
+
 ap - Asia/Pacific (Singapore)
+
 au - Australia (Sydney)
+
 sa - South America (Sao Paulo)
+
 jp - Japan (Tokyo)
+
 in - India (Mumbai)
