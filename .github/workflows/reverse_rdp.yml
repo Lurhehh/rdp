@@ -20,7 +20,7 @@ jobs:
     - name: Extract
       run: Expand-Archive ngrok.zip
     - name: Auth
-      run: .\ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
+      run: .\ngrok\ngrok.exe authtoken ${{ github.event.inputs.authcode }}
       env:
         NGROK_AUTH_TOKEN: ${{ github.event.inputs.authcode }}
     - name: Enable TS
