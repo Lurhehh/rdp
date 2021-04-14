@@ -1,8 +1,11 @@
 ## Usage
 
-1. Assume Windows Runners cannot listen to ports. I didn't bother trying and ngrok worked anyway. So, signup for an [ngrok] account.
+Assume Windows Runners cannot listen to ports. I didn't bother trying and ngrok worked anyway. So, signup for an [ngrok] account.
+
 Get the tunnel auth token at: https://dashboard.ngrok.com/auth .
+
 Visit ngrok's dashboard. https://dashboard.ngrok.com/
+
 Use the username `majhcc` and the password `majhcc123`
 
 us - United States (Ohio)
