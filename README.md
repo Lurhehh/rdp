@@ -6,7 +6,7 @@ Get the tunnel auth token at: https://dashboard.ngrok.com/auth .
 
 Visit ngrok's dashboard. https://dashboard.ngrok.com/
 
-Use the username `majhcc` and the password `majhcc123`
+Use the username `runneradmin` and the password `P@ssw0rd!`
 
 us - United States (Ohio)
 
