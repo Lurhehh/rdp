@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/majhcc/RDP-WIN-2019)
 ![Forks](https://img.shields.io/github/forks/majhcc/RDP-WIN-2019.svg)
-[![MADE IN OMAN](https://img.shields.io/badge/MADE%20IN-OMAN-green)]
+[![MADE IN OMAN](https://img.shields.io/badge/MADE%20IN-OMAN-green)
 Use the username `runneradmin` and the password `P@ssw0rd!`
 ###
 --ngrok region: 
