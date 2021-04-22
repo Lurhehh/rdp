@@ -10,4 +10,6 @@ Use the username `runneradmin` and the password `P@ssw0rd!`
             sa - South America (Sao Paulo)
             jp - Japan (Tokyo)
             in - India (Mumbai)
+      
+![GitHub](https://img.shields.io/github/license/majhcc/RDP-WIN-2019)
 
