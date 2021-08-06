@@ -16,42 +16,42 @@ P@ssw0rd!
 
 ngrok region: 
 United States (Ohio) 
-	```
-	us
-	```  
+```
+us
+```  
 
 Europe (Frankfurt) 
-	```
-	eu
-	```  
+```
+eu
+```  
 
 Asia/Pacific (Singapore)  
-	```
-	ap
-	```
+```
+ap
+```
 
 Australia (Sydney)
-	```
-	au
-	```
+```
+au
+```
 
 
 South America (Sao Paulo)
-	```
-	sa
-	``` 
+```
+sa
+``` 
 
 
 Japan (Tokyo)
-	```
-	jp
-	``` 
+```
+jp
+``` 
 
 
 India (Mumbai)
-	```
-	in
-	```
+```
+in
+```
 
       
 
