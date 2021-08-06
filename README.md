@@ -13,8 +13,7 @@ and the password
 ```
 P@ssw0rd!
 ```
-##########
-ngrok region: 
+########## Ngrok region: 
 
 
 United States (Ohio) 
