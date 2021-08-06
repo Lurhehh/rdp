@@ -3,7 +3,7 @@
 ![MADE IN OMAN](https://img.shields.io/badge/MADE%20IN-OMAN-green)
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Oman_%283-2%29.svg" width="27" height="18">
 ####
-Ngrok Signup	[click here](https://github.com/majhcc)
+Ngrok Signup [click here](https://dashboard.ngrok.com/signup)
 
 Use the username
 ```
@@ -14,27 +14,45 @@ and the password
 P@ssw0rd!
 ```
 
---ngrok region: 
+ngrok region: 
+United States (Ohio) 
+	```
+	us
+	```  
 
-```us``` - United States (Ohio) 
+Europe (Frankfurt) 
+	```
+	eu
+	```  
+
+Asia/Pacific (Singapore)  
+	```
+	ap
+	```
+
+Australia (Sydney)
+	```
+	au
+	```
 
 
-```eu``` - Europe (Frankfurt)  
+South America (Sao Paulo)
+	```
+	sa
+	``` 
 
 
-```ap``` - Asia/Pacific (Singapore)  
+Japan (Tokyo)
+	```
+	jp
+	``` 
 
 
-```au```- Australia (Sydney)
+India (Mumbai)
+	```
+	in
+	```
 
-
-```sa``` - South America (Sao Paulo)
-
-
-```jp``` - Japan (Tokyo)
-
-
-```in``` - India (Mumbai)
       
 
 	
