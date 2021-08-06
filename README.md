@@ -22,40 +22,40 @@ P@ssw0rd!
 ## Ngrok region: 
 
 
-United States (Ohio) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/220px-Flag_of_the_United_States.svg.png" width="27" height="18">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/220px-Flag_of_the_United_States.svg.png" width="27" height="18"> United States (Ohio) 
 ```
 us
 ```  
 
-Europe (Frankfurt) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png" width="27" height="18"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png" width="27" height="18"> Europe (Frankfurt) 
 ```
 eu
 ```  
 
-Asia/Pacific (Singapore)  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/220px-Flag_of_the_United_States.svg.png" width="27" height="18">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/255px-Flag_of_Singapore.svg.png" width="27" height="18"> Asia/Pacific (Singapore)  
 ```
 ap
 ```
 
-Australia (Sydney)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/255px-Flag_of_Australia_%28converted%29.svg.png" width="27" height="18">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/255px-Flag_of_Australia_%28converted%29.svg.png" width="27" height="18"> Australia (Sydney)
 ```
 au
 ```
 
 
-South America (Sao Paulo)<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/243px-Flag_of_Brazil.svg.png" width="27" height="18">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/243px-Flag_of_Brazil.svg.png" width="27" height="18"> South America (Sao Paulo)
 ```
 sa
 ``` 
 
 
-Japan (Tokyo) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/255px-Flag_of_Japan.svg.png" width="27" height="18">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/255px-Flag_of_Japan.svg.png" width="27" height="18"> Japan (Tokyo) 
 ```
 jp
 ``` 
 
 
-India (Mumbai) <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" width="27" height="18">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" width="27" height="18"> India (Mumbai) 
 ```
 in
 ```
