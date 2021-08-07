@@ -7,7 +7,7 @@ on:
         description: 'Ngrog Token'
         required: true
       loca:
-        description: 'Ngrog region'
+        description: 'Ngrog region: us - eu - ap - au - sa - jp - in '
         required: true
         default: 'eu'
 jobs:
