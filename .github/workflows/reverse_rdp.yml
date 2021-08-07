@@ -31,7 +31,7 @@ jobs:
     - run: Set-LocalUser -Name "runneradmin" -Password (ConvertTo-SecureString -AsPlainText "P@ssw0rd!" -Force)
     - name: Install google backup and sync
       run: choco install google-backup-and-sync
-    - name: Install Warp
-      run: choco install warp
+    - name: Install psiphon
+      run: choco install psiphon
     - name: Create Tunnel
       run: .\ngrok\ngrok.exe tcp -region ${{ github.event.inputs.loca }} 3389
